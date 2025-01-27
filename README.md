@@ -33,7 +33,6 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 src/ │ ├── index.html ├── style.css └── script.js
 
-
 ### index.html
 
 This is the main HTML file that contains the structure of the game, including the buttons for Rock, Paper, and Scissors, as well as the result display area and the end game button.
@@ -46,6 +45,10 @@ This file contains the CSS to style the buttons, layout, and overall appearance 
 
 This file contains the JavaScript code that handles the game logic and interactions, such as determining the winner, updating the score, and resetting the game.
 
+## Live Demo
+
+You can try the game live on [Netlify](https://lokesh-rock-paper-scrissor.netlify.app/).
+
 ## Running the Game
 
 1. Clone or download the repository.
@@ -56,3 +59,5 @@ This file contains the JavaScript code that handles the game logic and interacti
 ## Conclusion
 
 This project demonstrates how to use basic JavaScript concepts like functions, conditionals, and DOM manipulation to build an interactive game. It also covers how to handle user input and update the UI accordingly.
+## Screenshot
+![Project Output](./image.png)
